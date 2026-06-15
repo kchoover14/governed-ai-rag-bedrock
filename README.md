@@ -4,7 +4,6 @@ A retrieval-augmented assistant that answers questions about U.S. federal AI gov
 
 ## Project Resources
 
-**Repository:** [governed-ai-rag-bedrock](https://github.com/kchoover14/governed-ai-rag-bedrock)
 
 **Data:**
 
