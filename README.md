@@ -8,7 +8,7 @@ A retrieval-augmented assistant that answers questions about U.S. federal AI gov
 
 **Data:**
 
-  - 17 public federal AI-governance documents: the NIST AI Risk Management Framework (AI 100-1), its Generative AI Profile (AI 600-1) and Playbook, five NIST AI technical reports, seven executive orders (Biden and Trump administrations), America's AI Action Plan, and draft federal legislation (GAAIA). All sourced from nist.gov, airc.nist.gov, and the Federal Register / govinfo.gov, and ingested into an Amazon Bedrock Knowledge Base with per-document category and status metadata (e.g., `rmf`, `report`, `policy`, `legislation`; `status: draft` / `rescinded`).
+  - 16 public federal AI-governance documents: the NIST AI Risk Management Framework (AI 100-1), its Generative AI Profile (AI 600-1) and Playbook, five NIST AI technical reports, seven executive orders (Biden and Trump administrations), America's AI Action Plan, and draft federal legislation (GAAIA). All sourced from nist.gov, airc.nist.gov, and the Federal Register / govinfo.gov, and ingested into an Amazon Bedrock Knowledge Base with per-document category and status metadata (e.g., `rmf`, `report`, `policy`, `legislation`; `status: draft` / `rescinded`).
 
 **Code:**
 
